@@ -53,12 +53,13 @@ This project simulates a real-world BI analyst task: taking raw transactional da
 
 ```
 ecom-express-powerbi/
-├── Ecom_Express_PowerBI_Dashboard.pbix    # Main Power BI file
 ├── Customers.csv                          # 462 customer records with state & phone brand
+├── Ecom_Express_Analysis.pdf
+├── Ecom_Express_PowerBI_Dashboard.pbix    # Main Power BI file
 ├── Orders.csv                             # 15,690 order records with delivery status
 ├── Products.csv                           # 12 products with category, price & ratings
-├── dashboard_preview.png                  # Screenshot of the completed dashboard
-└── README.md
+├── README.md
+└── dashboard_preview.png                  # Screenshot of the completed dashboard
 ```
 
 ---
